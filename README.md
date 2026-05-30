@@ -1,15 +1,21 @@
-Tetris (Console Application)
+# Calculator (Windows Forms)
 
-A classic Tetris game for the console, implemented in C# as part of a study practice.
+A console calculator application with a graphical interface, created as part of an educational practice.
 
-Features
+## Functionality
+- Basic arithmetic operations: addition, subtraction, multiplication, division.
+- Support for decimal numbers.
+- Theme change button (light/ dark).
+- Error handling (division by zero, etc.).
 
-* Full-fledged gameplay with falling shapes.
-* Controls: Left and right arrows for movement, down arrow for faster fall, up arrow for rotation, spacebar for instant fall, P for pause, and Esc for exit.
-* Display of the score, the number of removed lines, and the next shape.
-* Ability to restart the game after losing.
+## Launch
+1. Open the `Calculator.sln` solution in Visual Studio.
+2. Start (F5).
 
-Launching
+## Demonstration
+<img width="400" height="337" alt="image" src="https://github.com/user-attachments/assets/56947521-7313-46bf-bdb3-08963f2ea65f" />
 
-1. Open TetrisGame.sln in Visual Studio.
-2. Build and launch (F5).
+<img width="401" height="339" alt="image" src="https://github.com/user-attachments/assets/22d32e8e-c007-48fc-a2de-4acb2a07e334" />
+
+## Author
+[Evlog01](https://github.com/Evlog01)
